@@ -7,12 +7,18 @@ This is a social media platform with features similar to Pintrest. You can login
 ## Demo
 You can view a live demo of this project [here](https://globalshare13.netlify.app/).
 
+## Screenshots
+
+![image](https://github.com/abbasabdallah13/globalshare/assets/89516669/4acb5188-2b01-456a-938d-a5468ecb0b03)
+
+
 ## Installation
 1. Clone the repository
    - git clone https://github.com/[USERNAME]/PROJECT_NAME.git // repo url can be copied from above
    - cd PROJECT_NAME
 2. Install dependencies
    - npm install
+  
 
 ## Contributing 
 1. Fork the repository
